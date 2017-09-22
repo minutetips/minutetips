@@ -1,4 +1,3 @@
-#### MinuteTips
 
 # Tutorial Test
 
@@ -8,6 +7,13 @@ There is some content here.
 * bullet 2
 * bullet 3
 
+```python
+2+2 = 4
+```
+
+Link this to [home page] [1]
+
+[1]: minutetips.net
 
 
 
