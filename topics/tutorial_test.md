@@ -7,7 +7,10 @@ There is some content here.
 * bullet 2
 * bullet 3
 
-```python
+
+## Sub-heading
+
+```
 2+2 = 4
 ```
 
